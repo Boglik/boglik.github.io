@@ -14,4 +14,9 @@
     "price": 20000,
     "description": "Планшет на iOS"
   }
+    {
+    "name": "MacOs",
+    "price": 200000,
+    "description": "Компьютер от Apple"
+  }
 ]
