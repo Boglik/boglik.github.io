@@ -18,5 +18,10 @@
     "name": "MacOs",
     "price": 200000,
     "description": "Компьютер от Apple"
+  },
+    {
+    "name": "MacOs",
+    "price": 200000,
+    "description": "Компьютер от Apple"
   }
 ]
