@@ -1,14 +1,14 @@
-
-  {
-    "name": "Главная",
-    "icon": "1"
-  },
-  {
-    "name": "Закладки",
-    "icon": "2"
-  },
-  {
-    "name": "Настройки",
-    "icon": "3"
-  },
-
+<response>
+<item>
+<name>Главная</story_id>
+<icons>1</category_id>
+</item>
+<item>
+<name>Избранное</story_id>
+<icons>2</category_id>
+</item>
+<item>
+<name>Настройки</story_id>
+<icons>3</category_id>
+</item>
+</response>
